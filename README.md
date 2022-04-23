@@ -5,6 +5,9 @@
 ----
 ###### 🍉kahi's velog🍉https://velog.io/@skh9797
 ###### 🍉kahi`s notion🍉https://apricot-iodine-c52.notion.site/Seo-kahi-a96c5ec3e80749d4926c2c983404cc64
+
+![seokahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahi&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/seokahi/seokahi/edit/main/README.md)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahi)](https://github.com/seokahi/github-readme-stats)
 
 
