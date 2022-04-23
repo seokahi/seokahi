@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=🐰seokahi🐰%20)
 
 <div align="center">
-<a href="https://github.com/seokahi"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D5A5CB&title_bg=%239C8484&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokahi&count_bg=%23ED9DD3&title_bg=%23CEA9A9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 ----
 <div align="center">
