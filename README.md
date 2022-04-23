@@ -13,10 +13,10 @@
 
 ![seokahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahi&show_icons=true&theme=calm) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/seokahi/seokahi/edit/main/README.md)
 
-## 🌺 About Me 🌺
-🍉<b>kahi's velog</b>🍉[벨로그](https://velog.io/@skh9797)<br>
-🍉<B>kahi`s notion</b>🍉[노션](https://apricot-iodine-c52.notion.site/Seo-kahi-a96c5ec3e80749d4926c2c983404cc64)
-🍉Email:🍉skh9797@naver.com
-🍉Phonenumber🍉010-5833-3159
+### 🍉 Contact 🍉
+<b>kahi's velog</b>[벨로그](https://velog.io/@skh9797)<br>
+<B>kahi`s notion</b>[노션](https://apricot-iodine-c52.notion.site/Seo-kahi-a96c5ec3e80749d4926c2c983404cc64)
+<b>Email : skh9797@naver.com </b>
+>b?Phonenumber : 010-5833-3159 </b>
 </div>
 
