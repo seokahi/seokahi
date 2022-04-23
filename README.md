@@ -14,7 +14,7 @@
   
 </div>
 
-![seokahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahi&show_icons=true&theme=calm) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/seokahi/seokahi/edit/main/README.md)
+![seokahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahi&show_icons=true&theme=calm width="500px") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/seokahi/seokahi/edit/main/README.md)
 
 
 
