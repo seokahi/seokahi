@@ -14,7 +14,7 @@
   
 </div>
 
-<div style="display:inline-block">
+<div style="width:100px">
 ![seokahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahi&show_icons=true&theme=calm) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/seokahi/seokahi/edit/main/README.md)
 </div>
 
