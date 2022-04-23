@@ -16,7 +16,6 @@
 ## 🍉 Contact 🍉
 <b>kahi's velog : </b>[벨로그](https://velog.io/@skh9797)<br>
 <b>kahi`s notion : </b>[노션](https://apricot-iodine-c52.notion.site/Seo-kahi-a96c5ec3e80749d4926c2c983404cc64)<br>
-<b>Email : `skh9797@naver.com` </b><br>
-<b>Phonenumber : 010-5833-3159 </b><br>
+<b>Email : skh9797@naver.com </b><br>
 </div>
 
