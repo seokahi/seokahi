@@ -14,9 +14,5 @@
 
 ![seokahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokahi&show_icons=true&theme=calm)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokahi&layout=compact)](https://github.com/seokahi/seokahi/edit/main/README.md)
 
-## 🍉 Contact 🍉
-<b>kahi's velog : </b>[벨로그](https://velog.io/@skh9797)<br>
-<b>kahi`s notion : </b>[노션](https://apricot-iodine-c52.notion.site/Seo-kahi-a96c5ec3e80749d4926c2c983404cc64)<br>
-<b>Email : skh9797@naver.com </b><br>
-</div>
+
 
